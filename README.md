@@ -32,4 +32,4 @@ print(result)
 ![output](/output.png)
 
 ### RESULT:
-The output as sucessfully displayed
+Thus the python program for circulate the value of n variables is executed successfully
